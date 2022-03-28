@@ -37,7 +37,7 @@ class _FourPageState extends State<FourPage> {
               const SizedBox(height: 10),
               ElevatedButton(
                 onPressed: _controller.callAPI,
-                child: const Text('Random'),
+                child: const Text('Buscar dados'),
               ),
             ],
           ),
